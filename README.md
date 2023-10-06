@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am a frontend engineer with an experience of over 5 years. I have hands on experienceworking with web frameworks and technologies. I have extensively worked on react and typescript for 4 years.
+I am a Full Stack Developer with over Three years of experience, I have honed my expertise in creating large-scale web applications mostly working on the frontend side utilizing cutting-edge technologies such as JavaScript ES5/ES6, ReactJS, NextJS, Angular, and Node.js. My proficiency in database management systems, including SQL, MySQL, and MongoDB, has enabled me to successfully develop and revamp a diverse range of websites and web applications.
 
 ---
 
@@ -18,16 +18,15 @@ I am a frontend engineer with an experience of over 5 years. I have hands on exp
 
 ## Experience
 
-### **SENIOR FRONTEND DEVELOPER**
-### MIRO
+### **Full Stack Developer**
+### Softosol Ltd Pvt
 
-Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
+Developed single-page applications using the MERN (Mongo DB, Express.JS, React.JS, Node.JS) stack. Proficient in HTML, JavaScript, CSS3, React.js, and Rest APIs. Successfully migrated an application from Vanilla JS to React JS. Designed the user interface, interaction scenarios, and navigation based on requirements and use cases. Worked collaboratively with clients to design layouts and color schemes for their websites and implemented those using HTML/CSS & JavaScript.
 
 ### **FRONTEND DEVELOPER**
-### Booking.com
+### Veroke
 
-Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
-
+Developed single-page applications using the MERN (Mongo DB, Express.JS, React.JS, Node.JS) stack. Proficient in HTML, JavaScript, CSS3, React.js, and Rest APIs.  Successfully migrated an application from Vanilla JS to React JS. • Designed the user interface, interaction scenarios, and navigation based on requirements and use cases. • Developed client-side validation code using JavaScript and JQuery. • Worked collaboratively with clients to design layouts and color schemes for their websites and implemented those using HTML/CSS & JavaScript.
 ### **SOFTWARE DEVELOPER**
 ### NAGARRO PVT, LTD
 
